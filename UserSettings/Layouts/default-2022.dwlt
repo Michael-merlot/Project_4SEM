@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 509
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 272
     height: 616
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -533,7 +533,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Packages/com.unity.timeline
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -541,16 +541,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Packages/com.unity.timeline
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\\u041C\u0438\u0445\u0430\u0438\u043B\\Project_4SEM"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 48}
-    m_SelectedIDs: 4ada0000
-    m_LastClickedID: 55882
-    m_ExpandedIDs: 0000000010da000012da000000ca9a3b
+    scrollPos: {x: 0, y: 402}
+    m_SelectedIDs: 1adc0000
+    m_LastClickedID: 56346
+    m_ExpandedIDs: 0000000010da000012da000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -605,7 +605,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300000672000016660000646e00008a620000e268000008670000c86500005065000086650000d0d200002ad20000000000005ae300000cfa0000a4dc00006adc000070e800007c3e0100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -718,9 +718,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 5ada0000
+      m_SelectedIDs: 22dc0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1aedffffe8eeffff00f0fffff8f2ffff12f4ffff54f4ffff3cf6ffff0cf8ffff16fbffff
+      m_ExpandedIDs: 20f8ffff16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1113,9 +1113,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 177.44496, y: 33.52253, z: -1.1244636}
+    m_Target: {x: 54.692863, y: 13.750883, z: -0.31756982}
     speed: 2
-    m_Value: {x: 172.65543, y: 32.25611, z: -1.0702837}
+    m_Value: {x: 58.000275, y: 14.203083, z: -0.33883443}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1165,9 +1165,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 125.817604
+    m_Target: 45.128258
     speed: 2
-    m_Value: 120.39962
+    m_Value: 47.25472
   m_Ortho:
     m_Target: 1
     speed: 2
