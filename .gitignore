@@ -18,3 +18,10 @@ Thumbs.db
 
 # Игнорирование файлов Visual Studio Code
 .vscode/
+
+# Игнорирование файлов Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
